@@ -21,8 +21,6 @@ Previamente, se ha realizado un análisis de los datos que se van a exportar par
 Resultado: Resumen con el número de órdenes de reparación (OR) abiertas y el importe en curso de cada taller (KVPS) en un .xlsx + 
             '.zip' con la información detallada de los '.csv' convertida a '.xlsx' y separada por columnas.
 
-    -- Conclusión: en cuestión de minutos se extrae un informe con toda la información necesaria y archivos separados por taller con la información al detalle, por si fuera necesario revisar algo. 
+Conclusión: en cuestión de minutos se extrae un informe con toda la información necesaria y archivos separados por taller con la información al detalle, por si fuera necesario revisar algo. 
 
-
-
-**Nota**: Por motivos de privacidad y confidencialidad de la información empresarial, el código incluido en este proyecto ha sido adaptado y generalizado. Los nombres, datos y parte de la lógica específica han sido sustituidos por información genérica con el fin de preservar la confidencialidad y evitar la exposición de información interna.
+            -- **Nota**: Por motivos de privacidad y confidencialidad de la información empresarial, el código incluido en este proyecto ha sido adaptado y generalizado. Los nombres, datos y parte de la lógica específica han sido sustituidos por información genérica con el fin de preservar la confidencialidad y evitar la exposición de información interna.
