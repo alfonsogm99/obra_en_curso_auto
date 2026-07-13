@@ -3,7 +3,7 @@
 Antes de ejecutar el proceso, se realiza un análisis previo de los datos disponibles para identificar:
 
 * 📌 Columnas necesarias para el informe final.
-* 📌 Valores requeridos para los cálculos.
+* 📌 Valores requeridos.
 * 📌 Estructura de salida esperada.
 * 📌 Información relevante para el seguimiento de talleres.
 
@@ -23,7 +23,7 @@ El flujo de trabajo completo es:
                │
      ┌─────────┼─────────┐
      ▼         ▼         ▼
- Separación  Filtrado  Cálculo de
+ Separación  Filtrado  Recuento de
  columnas    datos     OR abiertas
      │         │         │
      └─────────┼─────────┘
@@ -34,8 +34,6 @@ El flujo de trabajo completo es:
       .xlsx              .zip
 ```
 
----
-
 # ⚙️ Funcionamiento
 
 ## 1. Preparación de plantilla
@@ -44,7 +42,7 @@ Se prepara una plantilla `.xlsx` con la estructura definida para la generación 
 
 ## 2. Extracción de información
 
-Los datos necesarios se extraen desde la BD en formato:
+Los datos necesarios se extraen desde la base de datos en formato:
 
 ```
 .csv
@@ -83,7 +81,7 @@ script.py
 Detalle_talleres.zip
 ```
 
-Contiene la información de los archivos '.csv' separada columnas y KVPS.
+Contiene la información de los archivos `.csv` separada columnas y KVPS.
 
 Ejemplo de estructura:
 
