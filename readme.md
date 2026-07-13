@@ -11,7 +11,7 @@ Antes de ejecutar el proceso, se realiza un análisis previo de los datos dispon
 * 📌 Estructura de salida esperada.
 * 📌 Información relevante para el seguimiento de talleres.
 
-El flujo de trabajo completo es:
+### Flujo de trabajo
 
 ```
           Base de datos
