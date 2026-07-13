@@ -1,3 +1,7 @@
+# REAMDE
+
+Este proyecto permite obtener, en cuestión de minutos, un informe completo con la información necesaria para el seguimiento de talleres.
+
 # 🚀 Descripción general
 
 Antes de ejecutar el proceso, se realiza un análisis previo de los datos disponibles para identificar:
@@ -16,7 +20,7 @@ El flujo de trabajo completo es:
        Exportación de datos
                │
                ▼
-          Archivos .csv
+          Archivos `.csv`
                │
                ▼
             script.py
@@ -42,11 +46,7 @@ Se prepara una plantilla `.xlsx` con la estructura definida para la generación 
 
 ## 2. Extracción de información
 
-Los datos necesarios se extraen desde la base de datos en formato:
-
-```
-.csv
-```
+Los datos necesarios se extraen desde la base de datos en formato `.csv`.
 
 ## 3. Procesamiento automático
 
@@ -104,14 +104,8 @@ Detalle_talleres.zip
 
 ✅ Generación de informes estructurados y homogéneos.
 
-# 🔒 Nota de privacidad
+
+
+
 
           ---Por motivos de privacidad y confidencialidad de la información empresarial, el código incluido en este proyecto ha sido adaptado y generalizado. Los nombres, datos y parte de la lógica específica han sido sustituidos por información genérica con el objetivo de preservar la confidencialidad y evitar la exposición de información interna.
-
----
-
-# 📌 Conclusión
-
-Este proyecto permite obtener, en cuestión de minutos, un informe completo con la información necesaria para el seguimiento de talleres.
-
-Además del resumen ejecutivo, genera archivos separados con el detalle de cada taller, permitiendo realizar revisiones específicas cuando sea necesario.
