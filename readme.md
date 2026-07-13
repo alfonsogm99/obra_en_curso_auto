@@ -56,12 +56,9 @@ script.py
 
 * Separación de la información en columnas.
 * Normalización de la estructura de los datos recibidos.
-* Preparación de la información para su tratamiento.
-* Selección únicamente de los campos necesarios.
 * Eliminación de información no relevante para el informe final.
 * Recuento de órdenes de reparación (OR) abiertas.
 * Obtención del importe en curso de cada taller (KVPS).
-* Preparación de los datos para la generación del informe.
 
 # 📁 Resultado
 
@@ -78,7 +75,7 @@ script.py
 ## 📦 Información detallada
 
 ```
-Detalle_talleres.zip
+detalle_talleres.zip
 ```
 
 Contiene la información de los archivos `.csv` separada columnas y KVPS.
@@ -86,7 +83,7 @@ Contiene la información de los archivos `.csv` separada columnas y KVPS.
 Ejemplo de estructura:
 
 ```
-Detalle_talleres.zip
+detalle_talleres.zip
 
 ├── KVPS001_.xlsx
 ├── KVPS002_.xlsx
@@ -108,4 +105,4 @@ Detalle_talleres.zip
 
 
 
-          ---Por motivos de privacidad y confidencialidad de la información empresarial, el código incluido en este proyecto ha sido adaptado y generalizado. Los nombres, datos y parte de la lógica específica han sido sustituidos por información genérica con el objetivo de preservar la confidencialidad y evitar la exposición de información interna.
+          Por motivos de privacidad y confidencialidad de la información empresarial, el código incluido en este proyecto ha sido adaptado y generalizado. Los nombres, datos y parte de la lógica específica han sido sustituidos por información genérica con el objetivo de preservar la confidencialidad y evitar la exposición de información interna.
